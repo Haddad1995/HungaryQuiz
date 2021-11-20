@@ -3,7 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/drawable/empty_back.xml" value="0.19315068493150686" />
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/drawable/next_btn_shape.xml" value="0.19583333333333333" />
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/drawable/tmout_btn_shape.xml" value="0.19315068493150686" />
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/font/hk_bold.xml" value="0.2054794520547945" />
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/layout/activity_dashboard.xml" value="0.22" />
         <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/4th Year/Mobile Solutions/HungaryQuizApp/app/src/main/res/layout/time_out_dialog.xml" value="0.2" />
       </map>
     </option>
   </component>
